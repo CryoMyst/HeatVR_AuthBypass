@@ -12,5 +12,5 @@ Now in a more conventient powershell script instead of a .net executable.
 4. Enjoy not needing to authentication via Patreon
 
 ## Explanation
-Instead of patching the binary this mades use of the Auth class behaviour of a HWID in the PlayerPrefs allowing bypassing Patreon Therefore this will work for all versions until they patch this mode of authentication out.
+Instead of patching the binary this makes use of the Auth class behaviour of a HWID in the PlayerPrefs allowing bypassing Patreon. Therefore this will work for all versions until they patch this mode of authentication out.
 ![Auth Class](AuthClass.png)
